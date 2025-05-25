@@ -22,7 +22,7 @@ Also the project explores employee attrition trends and workforce insights acros
 - `screenshots/`: Dashboard preview 
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](screenshots/Dashboard_Preview.png)
+![Dashboard Preview](screenshot/Dashboard_Preview.png)
 
 ## 🔗 Dataset Source
 [IBM HR Analytics Attrition Dataset - Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-datase)
